@@ -1,4 +1,4 @@
-\#  CheeseQuest — The Q-Learning Mouse
+CheeseQuest — The Q-Learning Mouse
 
 
 
@@ -6,7 +6,7 @@ A multi-agent reinforcement learning maze project built with Python, Pygame, and
 
 
 
-\##  Project Overview
+Project Overview
 
 
 
@@ -14,11 +14,11 @@ CheeseQuest explores how intelligent agents can learn to navigate a maze using R
 
 
 
-\##  Features
+Features
 
 
 
-\- Two Q-Learning agents.
+\- Three Q-Learning agents.
 
 \- One A\* agent for comparison.
 
@@ -32,7 +32,7 @@ CheeseQuest explores how intelligent agents can learn to navigate a maze using R
 
 
 
-\##  Technologies
+Technologies
 
 
 
@@ -46,11 +46,13 @@ CheeseQuest explores how intelligent agents can learn to navigate a maze using R
 
 \- A\* Search Algorithm
 
+\- Q Learning Algorithm
+
 \- Reinforcement Learning
 
 
 
-\##  Installation
+Installation
 
 
 
@@ -80,7 +82,7 @@ pip install -r requirements.txt
 
 
 
-\##  Run the Project
+Run the Project
 
 
 
@@ -92,7 +94,7 @@ python "q-learning multiagent.py"
 
 
 
-\##  Learning Objectives
+Learning Objectives
 
 
 
@@ -106,7 +108,7 @@ python "q-learning multiagent.py"
 
 
 
-\## Author
+Author
 
 Muhammad Afaq
 
@@ -114,7 +116,7 @@ Muhammad Afaq
 
 GitHub: Afaq-khadim
 
-
+An Artificial Intelligence Final Year Project
 
 An Artificial Intelligence Final Year Project
 
