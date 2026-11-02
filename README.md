@@ -118,5 +118,3 @@ GitHub: Afaq-khadim
 
 An Artificial Intelligence Final Year Project
 
-An Artificial Intelligence Final Year Project
-
