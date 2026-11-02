@@ -18,7 +18,7 @@ Features
 
 
 
-\- Three Q-Learning agents.
+\- Two Q-Learning agents.
 
 \- One A\* agent for comparison.
 
